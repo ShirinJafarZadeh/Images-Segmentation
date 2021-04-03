@@ -1,2 +1,1 @@
-# Images-Segmentation
-by K-means Clustering on Berkeley Image Segmentation Dataset-images and Segmentation Benchmarks
+&#x202b; در این پروژه به استفاده از خوشه بندی k-means برای سگمنت بندی یک تصویر خواهیم پرداخت.
