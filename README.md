@@ -10,3 +10,6 @@ function (index, segmentedImg, centers] = segment(img, k, initialMethod)
 همچنین تابع هزینه J نیز محاسبه شده است:
 
 ![image](https://user-images.githubusercontent.com/78867549/113486547-bc646c00-94c8-11eb-9b1a-a38e36052eb8.png)
+
+
+&#x202b; توضیحات کامل این پروژه به همراه متد های استفاده شده را میتوانید در فایل report مشاهده کنید.
